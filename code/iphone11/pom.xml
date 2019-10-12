@@ -3,7 +3,7 @@
   <groupId>apple.iphone</groupId>
   <artifactId>iphone11</artifactId>
   <packaging>jar</packaging>
-  <version>1.0</version>
+  <version>1.1-SNAPSHOT</version>
   <name>iphone11</name>
   <scm>
   <connection>scm:git:https://github.com/Mandeep31/demo.git</connection>
